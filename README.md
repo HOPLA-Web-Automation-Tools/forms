@@ -38,13 +38,13 @@ After adding your form to HT-Forms, you should now be able to view your advanced
 ### Advanced Inputs
 *Shortcodes* are used by HT-Forms to parse and create advanced form elements.
 
-For example, to add a Video Record element, you would add a question entry of the type "short answer". And in the question text you would put `[WAT_VIDEO] Record a video`. This will render the video recorder element like this: ![record element](https://content.screencast.com/users/SilverSerate9052/folders/Default/media/4c83ef51-a706-4090-9364-2363245ed9e9/08.02.2018-17.10.png)
+For example, to add a Video Record element, you would add a question entry of the type "short answer". And in the question text you would put `[HT_VIDEO] Record a video`. This will render the video recorder element like this: ![record element](https://content.screencast.com/users/SilverSerate9052/folders/Default/media/4c83ef51-a706-4090-9364-2363245ed9e9/08.02.2018-17.10.png)
 
 Recorded videos submitted by your form respondents will be uploaded directly to your Google Drive under the HOPLA Tools folder.
 
 #### ShortCodes
 Optional parameters can be added to shortcodes such as `t=30` to limit the video recording up to 30 seconds.
-The short code would become `[WAT_VIDEO t=30]`.
+The short code would become `[HT_VIDEO t=30]`.
 
 | ShortCode                     	| Optional Parameter               	| Question Type 	| Sample Usage                              	| Explanation                                                                                                                                                                                                                                                                                	|
 |-------------------------------	|----------------------------------	|---------------	|-------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
