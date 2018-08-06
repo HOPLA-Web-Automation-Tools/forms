@@ -32,7 +32,7 @@ Example: If your google form *edit* URL is `https://docs.google.com/forms/d/1Bxl
 
 After adding your form to HT-Forms, you should now be able to view your advanced form here: https://form.hopla.tools/?key=[YOUR-FORM-KEY]
 
-![add form](https://content.screencast.com/users/SilverSerate9052/folders/Default/media/4ee3b00a-1188-4b9d-9891-862a5c2a5b67/08.06.2018-10.45.GIF)
+![add form](https://content.screencast.com/users/SilverSerate9052/folders/Default/media/d5ef3c52-04eb-4b30-8afc-bed5658b7687/08.06.2018-10.55.GIF)
 
 
 ### Advanced Inputs
